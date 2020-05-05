@@ -1,10 +1,8 @@
-=============================
 WEBSITE HARMONI RENTAL ACEH
-=============================
 
 Website ini merupakan projek final matakuliah "Pemograman Berbasis Web"
 
-Kelompok 1 :
+Kelompok :
 - 1808107010029 Sitty Almatunira
 - 1808107010070 Ridha Niara
 - 1808107010035 Arnensi
