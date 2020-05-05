@@ -1,0 +1,33 @@
+@media(max-width: 720px){
+	.kolom-1 p.lead{
+		font-size: 30px;
+	}
+}
+
+.gambar{
+	width: 300px;
+	margin-top: 30px;
+}
+p.lead{
+	font-size: 50px;
+	font-weight: 500;
+}
+
+p.lead span{
+	 font-size: 60px;
+}
+.kolom-1, .kolom-2, .row{
+	background-color: lightblue;
+}
+
+.admin a, .user a{
+	padding: 30px 30px 0px 30px;
+	border: 2px solid #007bff;
+	margin: 20px 0;
+	border-radius: 15px;
+}
+
+.admin p, .user p{
+	font-size: 24px;
+}
+

@@ -1,0 +1,28 @@
+a#link{
+	text-decoration: none;
+}
+div.produk{
+	height: 280px !important;
+	box-sizing: border-box;
+}
+p.card-title{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	box-sizing: border-box;
+	font-size: 16px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+p#deskripsi{
+	color: black;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp : 3;
+	-webkit-box-orient: vertical;
+}
+
+.produk img{
+	height: 142px;
+	object-fit: cover;
+}

@@ -1,0 +1,53 @@
+@media(max-width: 720px){
+	div.kolom{
+		height: 55vh;
+	}
+}
+
+.kolom{
+	height: 90vh;
+}
+
+.nav-link:hover, .aktif{
+	/*background-color: #42474d;*/
+	background-color: lightblue;
+}
+
+.kolom a.nav-link{
+	padding-top: 18px;
+	padding-bottom: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.nav .nav-item a{
+	color: white;
+}
+
+.nav .nav-item a:hover{
+	color: #007bff;
+}
+.nav-link i{
+	/*font-size: 25px;*/
+	margin-right: 10px;
+}
+
+.admin{
+	font-size: 30px;
+	color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#tabel{
+	height: 85vh;
+	overflow: auto;
+}
+
+.table tr:nth-child(even){
+	background-color: #ddd;
+}
+
+tr:hover{
+	background-color: lightblue;
+}
